@@ -9,4 +9,4 @@ The original exploit was discovered by [Saumil Shah](https://twitter.com/thereal
 A harmless demonstration can be found [here](http://images-fireflies.c9.io/twitter.png).
 
 ### Notes
-The demonstration provided cannot be embedded by means of an `<img>` tag, though it is fully possible to move the decoding script into a document that does embed the _potentially_ malicious image through and `<img>` tag. 
+The demonstration provided cannot be embedded by means of an `<img>` tag, though it is fully possible to move the decoding script into a document that does embed the _potentially_ malicious image through an `<img>` tag. 
