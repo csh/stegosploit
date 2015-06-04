@@ -6,7 +6,7 @@ stegosploit
 
 In this example we hide JavaScript code in the alpha channel of a PNG file then execute it when the image finishes loading.
 
-### Why?
+### What?
 The original exploit was discovered by [Saumil Shah][saumil] and used an HTML5 `<canvas>` element to execute malicious code when the image was rendered. I decided to write a simple example of the same process but using an `<img>` element and [Peter Eigenschink](https://github.com/petereigenschink)'s steganography.js library.
 
 A harmless demonstration can be found [here](http://images-fireflies.c9.io/twitter.png).
